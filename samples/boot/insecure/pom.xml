@@ -103,12 +103,12 @@
       <scope>test</scope>
     </dependency>
   </dependencies>
-   <repositories>
-     <repository>
-       <id>spring-snapshot</id>
-       <url>https://repo.spring.io/snapshot</url>
-     </repository>
-   </repositories>
+  <repositories>
+    <repository>
+      <id>spring-snapshot</id>
+      <url>https://repo.spring.io/snapshot</url>
+    </repository>
+  </repositories>
   <build>
     <plugins>
       <plugin>
